@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" name="robots" content="noindex">
+    <link rel="stylesheet" href="style.css">
+    <!--Googleフォントへのリンク-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+    <!--アイコンのリンク-->
+    <script src="https://kit.fontawesome.com/7861c29866.js" crossorigin="anonymous"></script>
+    <!--レスポンシブデザイン-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <!--jQueryへのリンクと処理-->
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+    <script>
+    $(function() {
+      $(".headC").click(function() {
+        $(".headB").slideToggle();
+      });
+    });
+    </script>
+
+    <title>～自分を育てるアプリ～　Sudachi</title>
+  </head>
+
+  <body>
+    <header><!--ヘッダー-->
+      <div class="container">
+        <div class="container-small">
+          <a href="index.html" class="headA">Sudachi</a>
+
+        <button type="button" class="headC"><!--トグルボタン-->
+          <span class="fa fa-bars" title="MENU"></span>
+        </button>
+        </div>
+
+        <nav class="headB"><!--ナビゲーションメニュー-->
+          <ul>
+            <li><a href="index.html">トップ</a></li>
+            <li><a href="about.html">Sudachiについて</a></li>
+            <li><a href="php/user-input.php">アカウント登録</a></li>
+            <li><a href="php/record.php">記録</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section class=conA>
+      <div class="container">
+        <img src="img/sudachi2.svg" alt="">
+        <h1>Sudachi</h1>
+        <p>～自分を育てるアプリ～</p>
+        <button type=button class="btn-typeA" onclick="location.href='php/login-input.php'">ログインする</button>
+      </div>
+    </section>
+
+    <section class="conB">
+      <div class="container">
+
+        <div class="text">
+          <span class="fas fa-leaf icon"></span>
+          <h2>はじめに</h2>
+          <p>Sudachiは不安を軽くする認知行動療法のアプリです。</p>
+          <a href="about.html"></a>
+        </div>
+
+        <div class="text">
+          <span class="fas fa-user icon"></span>
+          <h2>アカウント登録</h2>
+          <p>記録を保存するためにアカウントが必要になります。記録をする前に登録をお願いします。</p>
+          <a href="php/user-input.php"></a>
+        </div>
+
+        <div class="text">
+          <span class="fas fa-pen-alt icon"></span>
+          <h2>記録</h2>
+          <p>不安を和らげる練習をします。</p>
+          <a href="php/record.php"></a>
+        </div>
+
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footA">
+          <h2>Sudachi</h2>
+          <p>Made by Yama
+          </p>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
