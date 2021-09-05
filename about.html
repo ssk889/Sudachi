@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <!--Googleフォントへのリンク-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+    <!--アイコンのリンク-->
+    <script src="https://kit.fontawesome.com/7861c29866.js" crossorigin="anonymous"></script>
+    <!--レスポンシブデザイン-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <title>Sudachi</title>
+  </head>
+
+  <body class="nohero">
+    <header><!--ヘッダー-->
+      <div class="container">
+        <div class="container-small">
+          <a href="index.html" class="headA">Sudachi</a>
+
+        <button type="button" class="headC"><!--トグルボタン-->
+          <span class="fa fa-bars" title="MENU"></span>
+        </button>
+        </div>
+
+        <nav class="headB"><!--ナビゲーションメニュー-->
+          <ul>
+            <li><a href="index.html">トップ</a></li>
+            <li><a href="about.html">Sudachiについて</a></li>
+            <li><a href="php/user-input.php">アカウント登録</a></li>
+            <li><a href="php/record.php">記録</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <article class="post">
+    <div class="container">
+
+      <!--パンくずリスト-->
+      <div class="bread">
+        <ol>
+          <li><a href="index.html">トップ</a></li>
+          <li><a href="about.html">Sudachiについて</a></li>
+        </ol>
+      </div>
+
+      <h1 class="heading">Sudachiについて</h1>
+      <div class="img-position">
+      <img src="img/fruit_sudachi.png" alt=""></div>
+      <p>Sudachiは不安を軽くする認知行動療法のアプリです。<br><br>
+        不安が強い人は偏った考え方を持っています。しかし知識を学びその認知を正すだけでは十分ではありません。実際に行動して「あれ？思ったほど悪い結果にならないぞ」と納得して初めて考え方が変わります。</p>
+
+        <div class="img-position">
+        <img src="img/figure_reading.png" alt=""></div>
+
+        <p><span class="markA">「自分の苦手な場面を知る」</span>では自分が不安を感じる状況を把握します。同時に自分を客観的に観察することで不安を和らげる効果もあります。<br><br><span class="markA">「人見知り克服リスト」</span>では、今までやりたくてもできなかったことを記入します。目標地点を設定することで進みたい方向を明確にします。<br><br><span class="markA">「実践レポート」</span>は苦手な場面において、実際に行動する前後に記録を取ります。その際、瞬間的に生まれる「自動思考」を現実に沿った「適応思考」に修正しましょう。また、行動の前後の心境を対比することで、認知の偏りを把握できます。</p>
+
+        <p>Sudachiを使って、不安によって制限されていることの克服や、本当にやりたいことの実現に役立ててください。</p>
+
+
+
+      <div class="img-position">
+      <img src="img/figure_ta-da.png" alt=""><br></div>
+
+      <p class="small-stc">
+        参考文献<br>
+        ロナルド・M・ラペイ　越野好文・加賀良　訳 <br>(2003)『内気と不安を軽くする練習帳』　
+      <br><br>
+      反田克彦<br>(2014)『人見知りが治るノート』
+    </p>
+
+      <a href ="#" onclick="history.back(-1);return false;" class="back-bt" ><i class="fas fa-arrow-alt-circle-left"></i> 戻る</a>
+
+      <a href ="php/user-input.php" class="next-bt" >アカウント登録へ  <i class="fas fa-arrow-alt-circle-right"></i></a>
+
+
+
+
+
+
+  </div>
+</article>
+
+
+    <footer>
+      <div class="container">
+        <div class="footA">
+          <h2>Sudachi</h2>
+          <p>Made by Yama</p>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
