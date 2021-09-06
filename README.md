@@ -9,7 +9,9 @@
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
 
 ## How to use
-<img src="https://user-images.githubusercontent.com/67347289/132227105-57ac7c47-41ad-44a8-b920-06f42022b7cf.png" width=75%>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67347289/132227105-57ac7c47-41ad-44a8-b920-06f42022b7cf.png" width=75%>
+</p>
 
 ## Feature
 
