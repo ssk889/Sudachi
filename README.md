@@ -6,6 +6,7 @@
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
 
 <h2>How to use</h2>
-![readme2](https://user-images.githubusercontent.com/67347289/132218748-1a631035-8a37-4fb4-9f69-80f96a68674e.png)
+![readme2](https://user-images.githubusercontent.com/67347289/132219403-b0aa1bb1-66e2-4943-81a0-84f74555dfc7.png)
+
 
 
