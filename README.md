@@ -6,4 +6,5 @@
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
 
 ## How to use
-<p>
+![readme2](https://user-images.githubusercontent.com/67347289/132217544-5cc37fee-891e-4f3f-8af3-d5b5da72e01f.png)
+<p></p>
