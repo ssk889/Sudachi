@@ -6,7 +6,5 @@
 <p align="cetner"><a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a></p>
 
 <h2 align="center">How to use</h2>
-<p align="center">
-  ![readme2](https://user-images.githubusercontent.com/67347289/132217828-74ea7d31-f9c4-4774-b62f-1e76f9b47dfb.png)
-</p>
+![readme2](https://user-images.githubusercontent.com/67347289/132217828-74ea7d31-f9c4-4774-b62f-1e76f9b47dfb.png)
 
