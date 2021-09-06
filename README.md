@@ -4,3 +4,6 @@
 
 ## URL
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
+
+## How to use
+<p>
