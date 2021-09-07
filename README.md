@@ -22,10 +22,6 @@
   <img src="https://user-images.githubusercontent.com/67347289/132300558-19f3ef2e-4ec7-4024-ab8e-72c00b3dc3bd.png">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67347289/132304678-fbc98299-f0fc-4e12-b810-0c7e832efca0.png">
-</p>
-  
 ### After acting
 <p>行動した後にも心情を書き出し、バイアスを修正します。</p>
 <p align="center">
