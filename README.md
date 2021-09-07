@@ -19,7 +19,7 @@
 ### Before acting
 <p>行動する前に不安な事柄を書き出し、バイアスを修正します。</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67347289/132307016-e97b6ee4-db7a-425d-a291-e2194a0aa5cd.png">
+  <img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
 </p>
 
 ### After acting
