@@ -12,7 +12,7 @@
 
 ## How to use
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67347289/132227105-57ac7c47-41ad-44a8-b920-06f42022b7cf.png">
+  <img src="https://user-images.githubusercontent.com/67347289/132300838-71b61e81-4eff-4f4d-8a91-f05aff5535b8.png">
 </p>
 <p>自分が苦手な場面を把握できます。</p>
 
