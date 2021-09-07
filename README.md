@@ -1,15 +1,14 @@
+## Sudachi
+
 <p align="center" margin-bottom="50px">
   <img src="https://user-images.githubusercontent.com/67347289/132286957-86b4be04-3b88-4d5c-974d-9cdc6bccabe0.png">
 </p>
 
-## Sudachi
+## Feature
 <p>Sudachiは不安を和らげる認知行動療法のウェブアプリです。</p>
 
 ## URL
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
-
-## Feature
-<p>
 
 ## How to use
 <p align="center">
