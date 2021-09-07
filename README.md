@@ -28,6 +28,7 @@
   <img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
 </p>
 
-
+## Effect
+<p>行動の前後の心情を対比することで、自信の認知の偏りを把握して現実的な考え方を身に着けられます。</p>
 
 
