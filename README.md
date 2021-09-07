@@ -16,9 +16,13 @@
 </p>
 <p>自分が苦手な場面を把握できます。</p>
 
+### Before acting
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132300558-19f3ef2e-4ec7-4024-ab8e-72c00b3dc3bd.png">
 </p>
+
+<p align="center">
+  
 
 
 
