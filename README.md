@@ -11,12 +11,13 @@
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a>
 
 ## How to use
+<p>自分が苦手な場面を把握できます。</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132300838-71b61e81-4eff-4f4d-8a91-f05aff5535b8.png">
 </p>
-<p>自分が苦手な場面を把握できます。</p>
 
 ### Before acting
+<p>行動する前に不安な事柄を書き出し、バイアスを修正します。</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132300558-19f3ef2e-4ec7-4024-ab8e-72c00b3dc3bd.png">
 </p>
@@ -25,6 +26,10 @@
   <img src="https://user-images.githubusercontent.com/67347289/132303926-cef6fcf8-fb96-42c3-981b-ff72b30433f2.png">
 </p>
   
+### After acting
+<p>行動した後にも心情を書き出し、バイアスを修正します。</p>
+<p align="center">
+  <img src="
 
 
 
