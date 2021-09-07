@@ -1,5 +1,5 @@
 <p align="center" margin-bottom="50px">
-  <img src="https://user-images.githubusercontent.com/67347289/132286734-f8724830-51ad-463b-819a-01c27163800e.png">
+  <img src="https://user-images.githubusercontent.com/67347289/132286957-86b4be04-3b88-4d5c-974d-9cdc6bccabe0.png">
 </p>
 
 ## Sudachi
