@@ -33,6 +33,8 @@
 
 ## Responsive design
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/67347289/132310296-57c7a0d6-fd95-463b-9f50-7746b0d24b6d.png">
+</p>
   
 
 
