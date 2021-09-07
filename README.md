@@ -30,11 +30,15 @@
 
 ## Effect
 <p>行動する前後の心情を対比することで、認知の偏りを把握できます。<br>記録と行動を繰り返して、現実的な考え方を身に着けることが目的です。</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67347289/132318260-fe3113ef-0040-43a4-9212-e2f6af08b0ff.png">
+</p>
 
 ## Responsive design
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132310296-57c7a0d6-fd95-463b-9f50-7746b0d24b6d.png">
 </p>
+
   
 
 
