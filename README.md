@@ -5,7 +5,7 @@
 </p><br><br>
 
 ## Feature
-<p>Sudachiは不安を和らげる認知行動療法のウェブアプリです。</p><br><br>
+<p>Sudachiは不安を和らげる認知行動療法を実践できるウェブページです。</p><br><br>
 
 ## URL
 <a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a><br><br>
