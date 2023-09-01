@@ -5,16 +5,11 @@
 </p><br><br>
 
 ## Feature
-<p>Sudachiは不安を和らげる認知行動療法を実践できるウェブページです。</p><br><br>
+<p>認知行動療法を実践できるウェブページです。</p><br><br>
 
-## URL
-<a href="http://sudachi.sakura.ne.jp/index.html">http://sudachi.sakura.ne.jp/index.html</a><br><br>
-
-## How to use
-<p>自分が苦手な場面を把握できます。</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67347289/132300838-71b61e81-4eff-4f4d-8a91-f05aff5535b8.png">
-</p><br><br>
+<p>機能</p>
+<li>・アカウント登録機能</li>
+<li>・アカウント削除機能</li>
 
 ### Before acting
 <p>行動する前に不安な事柄を書き出し、バイアスを修正します。</p>
