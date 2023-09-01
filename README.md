@@ -8,14 +8,21 @@
 <p>認知行動療法を実践できるウェブページです。</p><br><br>
 
 <p>機能</p>
-<li>・アカウント登録機能</li>
-<li>・アカウント削除機能</li>
+<li>アカウント登録機能</li>
+<li>アカウント削除機能</li>
+<li>ログイン機能</li>
+<li>ログアウト機能</li>
+<li>サーバへのノートの保存、削除、編集機能</li>
 
-### Before acting
-<p>行動する前に不安な事柄を書き出し、バイアスを修正します。</p>
-<p align="center">
+##言語,ソフト
+<li>HTML, CSS</li>
+<li>PHP</li>
+<li>MySQL</li>
+<li>Visual Studio Code</li>
+<li>Xampp</li>
+
   <img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
-</p><br><br>
+<br><br>
 
 ### After acting
 <p>行動した後にも心情を書き出し、バイアスを修正します。</p>
