@@ -20,6 +20,7 @@
 <li>MySQL</li>
 <li>Visual Studio Code</li>
 <li>Xampp</li>
+<br><br>
 
 <img width = "700px" src = "https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1">
 
