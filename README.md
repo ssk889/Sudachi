@@ -33,7 +33,7 @@
   予測した不安は大部分が起きないことが多いため、対比することで自身の考え方の偏りを認識できます。<br>
   記録と行動を繰り返して、現実的な考え方を身に着けることが目的です。</p><br>
   
-<img src="https://github.com/ssk889/Sudachi/assets/67347289/97c953cc-717a-4af5-9c23-7f21ef1d2eeb">
+<img src="https://github.com/ssk889/Sudachi/assets/67347289/1ef27088-df69-4f5d-94f8-e522a78b2b92">
 <p>ノート保存機能</p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
