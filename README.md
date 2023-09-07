@@ -1,6 +1,6 @@
 ## Sudachi
 
-<img width = "1000px" src = "https://github.com/ssk889/Sudachi/assets/67347289/eeb9a994-66e7-49a5-b252-9c4103db870a">
+<img width = "1000px" src = "https://github.com/ssk889/Sudachi/assets/67347289/2715ca44-447b-4271-9c69-4e95b528659c">
 
 
 ## 概要
