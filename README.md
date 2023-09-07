@@ -23,7 +23,7 @@
 <br>
 <br><br><br>
 
-<img width = "600px" src = "https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1">
+<img width = "600px" src = "https://github.com/ssk889/Sudachi/assets/67347289/c5ffaeb5-241f-417c-9d2b-a403cdd80b19">
 <p>ログイン機能</p>
 
 <br><br>
