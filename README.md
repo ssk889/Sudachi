@@ -1,7 +1,7 @@
 ## Sudachi
 
 <p align="center" margin-bottom="50px">
-  <img src="https://user-images.githubusercontent.com/67347289/132286957-86b4be04-3b88-4d5c-974d-9cdc6bccabe0.png">
+  <img src="https://github.com/ssk889/Sudachi/issues/1#issue-1884952324">
 </p><br><br>
 
 ## 概要
