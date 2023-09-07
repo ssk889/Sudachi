@@ -22,16 +22,18 @@
 <li>Xampp</li>
 <br><br>
 
-<img width = "700px" src = "https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1">
+<img width = "600px" src = "https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1">
 
-  <img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
 <br><br>
 
 ### 効果
   <img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
-</p><br><br>
 
-## Effect
+
+## 効果
 <p>行動する前後の記録を対比することで、認知の偏りを把握できます。<br>記録と行動を繰り返して、現実的な考え方を身に着けることが目的です。</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132318260-fe3113ef-0040-43a4-9212-e2f6af08b0ff.png">
