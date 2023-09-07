@@ -23,18 +23,19 @@
 <br><br>
 
 <img width = "600px" src = "https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1">
+<p>ログイン機能</p>
 
 <br><br>
 
 <img src="https://github.com/ssk889/Sudachi/assets/67347289/97c953cc-717a-4af5-9c23-7f21ef1d2eeb">
+<p>ノート保存機能</p>
 <br><br>
-
-### 効果
-  <img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
 
 
 ## 効果
 <p>行動する前後の記録を対比することで、認知の偏りを把握できます。<br>記録と行動を繰り返して、現実的な考え方を身に着けることが目的です。</p>
+<img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67347289/132318260-fe3113ef-0040-43a4-9212-e2f6af08b0ff.png">
 </p><br><br>
