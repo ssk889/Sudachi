@@ -21,6 +21,8 @@
 <li>Visual Studio Code</li>
 <li>Xampp</li>
 
+![スクリーンショット (32)](https://github.com/ssk889/Sudachi/assets/67347289/5a76b893-45a8-4dbd-8e2a-56fdb86b6da1)
+
   <img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
 <br><br>
 
