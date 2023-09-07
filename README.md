@@ -1,7 +1,6 @@
 ## Sudachi
 
-<p align="center" margin-bottom="50px">
-</p>
+
   ![screenShot1](https://github.com/ssk889/Sudachi/assets/67347289/135f5058-1464-4622-b2fd-884dc6a9db33)
 
 
