@@ -1,8 +1,9 @@
 ## Sudachi
 
 <p align="center" margin-bottom="50px">
-  ![image](https://github.com/ssk889/Sudachi/assets/67347289/cb38f2ba-d573-41ab-ae93-5633414cc2f8)
-</p><br><br>
+</p>
+  ![スクリーンショット (31)](https://github.com/ssk889/Sudachi/assets/67347289/cb38f2ba-d573-41ab-ae93-5633414cc2f8)
+
 
 ## 概要
 <p>認知行動療法を実践できるウェブページです。</p><br><br>
