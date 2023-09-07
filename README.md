@@ -4,10 +4,10 @@
   <img src="https://user-images.githubusercontent.com/67347289/132286957-86b4be04-3b88-4d5c-974d-9cdc6bccabe0.png">
 </p><br><br>
 
-## Feature
+## 概要
 <p>認知行動療法を実践できるウェブページです。</p><br><br>
 
-<p>機能</p>
+## 機能
 <li>アカウント登録機能</li>
 <li>アカウント削除機能</li>
 <li>ログイン機能</li>
@@ -15,7 +15,7 @@
 <li>サーバへのノートの保存、削除、編集機能</li>
 <br><br><br>
 
-##言語,ソフト
+##　使用言語、ソフト
 <li>HTML, CSS</li>
 <li>PHP</li>
 <li>MySQL</li>
