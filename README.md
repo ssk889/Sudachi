@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
+<img src="https://github.com/ssk889/Sudachi/assets/67347289/97c953cc-717a-4af5-9c23-7f21ef1d2eeb">
 <br><br>
 
 ### 効果
