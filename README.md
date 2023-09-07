@@ -27,9 +27,7 @@
   <img src="https://user-images.githubusercontent.com/67347289/132307380-cab18f18-01f7-4b44-bbcc-e99b7d418d5f.png">
 <br><br>
 
-### After acting
-<p>行動した後にも心情を書き出し、バイアスを修正します。</p>
-<p align="center">
+### 効果
   <img src="https://user-images.githubusercontent.com/67347289/132307975-6fdb3f16-c635-4d1f-b3b6-d0cbc1b2d001.png">
 </p><br><br>
 
